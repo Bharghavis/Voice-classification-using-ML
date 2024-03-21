@@ -1,6 +1,6 @@
 tensorflow-cpu==2.7.4
-protobuf==3.19.10
 numpy==1.23.3
 streamlit==0.80.0
 librosa==0.8.0
+
 
