@@ -1,7 +1,5 @@
-tensorflow-cpu==2.7.4
-streamlit==0.89.0
+tensorflow-cpu
+numpy==1.19.5
+streamlit==0.80.0
 librosa==0.8.0
-protobuf==3.19.10
-click==7.1.2
-numpy==1.23.3
 
